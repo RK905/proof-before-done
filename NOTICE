@@ -1,0 +1,15 @@
+proof-before-done
+
+This project contains a modified version of skills/verification-before-completion/
+(SKILL.md) from https://github.com/obra/superpowers,
+Copyright (c) 2025 Jesse Vincent, licensed under the MIT License (see LICENSE).
+
+Modified by Rayen Kamta / GeeksDoByte (Rayen@geeksdobyte.com), 2026.
+
+Changes: renamed; rewrote as a shorter, self-contained SKILL.md; merged the
+"common failures" table and the "key patterns" code samples into one
+claim-to-proof table, adding deploy checks; merged the red-flag list and the
+rationalization table into one short "stop signs" list; added guidance on
+scaling proof to the size of the claim, a standard Status/Proof/Result/Gaps
+report format, and what to say when verification isn't possible; removed the
+TDD-specific references to other superpowers skills.
